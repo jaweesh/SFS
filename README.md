@@ -39,7 +39,10 @@ watch -n 3600 'cat ~/log.txt'
 ```
 
 
-my current setup is like this:
+My current setup is like this:
+Ubuntu VM running the script and posting the results to a shared folder on the host machine
+Windows VM running Splunk light that monitors changes to files in the shared folder and reflects the changes in real time
+
 ![setup](realtime-analytics.png "real time setup")
 
 
