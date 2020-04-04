@@ -27,7 +27,7 @@ def jsonify(spans):
     PEOPLE = spans[5].text
     CASH = spans[6].text
     J_OBJECT = {}
-    J_FILE = "./StandForSudan_DATA.json"
+    J_FILE = "~/StandForSudan_DATA.json"
     try:
         f = open(J_FILE, "r+",encoding='utf8')
     except:
@@ -54,7 +54,7 @@ def csvefy(spans):
     DONATIONS = str(spans[6].text).replace(',','')
     dateTimeObj = str(datetime.now())
     DATA = [dateTimeObj, DONATIONS_COUNT, DONATIONS]
-    CSV_FILE = "./StandForSudan_DATA.csv"
+    CSV_FILE = "~/StandForSudan_DATA.csv"
     afile = open(CSV_FILE, 'a', encoding='utf8')
     afile.write(','.join(DATA)+'\n')
     afile.close()
