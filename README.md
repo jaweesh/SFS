@@ -31,3 +31,11 @@ tmux new -s SFS
 watch -n 3600 'cat log.txt'
 
 ```
+
+## if you want to help
+please create an issue or a pull request
+
+### how to write an issue
+1. go to issues tab and create a new issue
+2. include any relevant information i need to replicate your issue
+3. describe the issue as you would for a 10 year old
