@@ -39,9 +39,18 @@ watch -n 3600 'cat ~/log.txt'
 ```
 
 ## if you want to help
+If you can help create visualizations and graphs from the data please do it and send me a message on twitter jaw33sh and will add it here along with your name
 please create an issue or a pull request
 
 ### how to write an issue
 1. go to issues tab and create a new issue
 2. include any relevant information i need to replicate your issue
 3. describe the issue as you would for a 10 year old
+
+
+## Credits
+friends and folks who helped on the code:
+1. anonymous
+2. anonymous
+3. anonymous
+4. anonymous
