@@ -38,6 +38,11 @@ watch -n 3600 'cat ~/log.txt'
 
 ```
 
+## Graphs and illustrations
+
+ Making sense of the data example one - using splunk free:
+![splunk](time-chart-01.png "Overtime")
+
 ## if you want to help
 If you can help create visualizations and graphs from the data please do it and send me a message on twitter jaw33sh and will add it here along with your name
 please create an issue or a pull request
