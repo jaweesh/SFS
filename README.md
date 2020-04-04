@@ -37,8 +37,11 @@ tmux new -s SFS
 watch -n 3600 'cat ~/log.txt'
 
 ```
+
+
 my current setup is like this:
 ![setup](realtime-analytics.png "real time setup")
+
 
 ## Graphs and illustrations
 
