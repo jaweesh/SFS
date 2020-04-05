@@ -40,7 +40,9 @@ watch -n 3600 'cat ~/log.txt'
 
 
 My current setup is like this:
+
 Ubuntu VM running the script and posting the results to a shared folder on the host machine
+
 Windows VM running Splunk light that monitors changes to files in the shared folder and reflects the changes in real time
 
 ![setup](Images/realtime-analytics.png "real time setup")
@@ -68,6 +70,7 @@ friends and folks who helped on the code:
 
 ## Graphs and illustrations
 *when the curve is flat that means no new people donated any cash*
+
 *Times are GMT+4 unless stated otherwise*
 
 Making sense of the data example one 4-april-2020 - using splunk free:
@@ -75,5 +78,6 @@ Making sense of the data example one 4-april-2020 - using splunk free:
 
 
 30 minute Window 5-april-2020:
+
 the jump on the left graph represent huge bigger than previous amount of cash donated
 ![5-april](Images/30-minute-window.png "30 minute window of data")
