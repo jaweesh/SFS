@@ -43,13 +43,8 @@ My current setup is like this:
 Ubuntu VM running the script and posting the results to a shared folder on the host machine
 Windows VM running Splunk light that monitors changes to files in the shared folder and reflects the changes in real time
 
-![setup](realtime-analytics.png "real time setup")
+![setup](Images/realtime-analytics.png "real time setup")
 
-
-## Graphs and illustrations
-
- Making sense of the data example one - using splunk free:
-![splunk](time-chart-01.png "Overtime")
 
 
 
@@ -69,3 +64,14 @@ friends and folks who helped on the code:
 2. anonymous
 3. anonymous
 4. anonymous
+
+
+## Graphs and illustrations
+
+Making sense of the data example one 4-april-2020 - using splunk free:
+![splunk](Images/time-chart-01.png "Overtime")
+
+
+30 minute Window 5-april-2020:
+the jump on the left graph represent huge bigger than previous amount of cash donated
+![5-april](Images/30-minute-window.png "30 minute window of data")
