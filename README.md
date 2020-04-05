@@ -69,6 +69,8 @@ friends and folks who helped on the code:
 
 
 ## Graphs and illustrations
+because one picture speaks a 1000 words
+
 *when the curve is flat that means no new people donated any cash*
 
 *Times are GMT+4 unless stated otherwise*
@@ -81,3 +83,7 @@ Making sense of the data example one 4-april-2020 - using splunk free:
 
 the jump on the left graph represent huge bigger than previous amount of cash donated
 ![5-april](Images/30-minute-window.png "30 minute window of data")
+
+5/april/2020 11:30 pm
+Close to 1 Million USD collected - 900K
+![900k USD collected](Images/900k-usd.png "900k USD collected so far")
