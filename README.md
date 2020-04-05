@@ -68,6 +68,7 @@ friends and folks who helped on the code:
 
 ## Graphs and illustrations
 *when the curve is flat that means no new people donated any cash*
+*Times are GMT+4 unless stated otherwise*
 
 Making sense of the data example one 4-april-2020 - using splunk free:
 ![splunk](Images/time-chart-01.png "Overtime")
