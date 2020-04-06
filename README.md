@@ -85,5 +85,22 @@ the jump on the left graph represent huge bigger than previous amount of cash do
 ![5-april](Images/30-minute-window.png "30 minute window of data")
 
 5/april/2020 11:30 pm
-Close to 1 Million USD collected - 900K
+Close to 1 Million USD collected - 900K USD
 ![900k USD collected](Images/900k-usd.png "900k USD collected so far")
+
+5/april/2020
+955k USD collected
+from 7am to 7pm Khartoum time there was 2000000 donations
+![955 USD](Images/955k-usd-7am-to-7pm.png "955k USD")
+
+2,292,676‬ SDG from 7am to 7pm Khartoum time
+
+![time and cash](Images/numbers-1.png "50571223")
+
+![time and cash](Images/numbers-2.png "52863899")
+
+7,509 new people from 7am to 7pm Khartoum time
+
+![time and people](Images/numbers-3.png "90960")
+
+![time and people](Images/numbers-4.png "98469")
