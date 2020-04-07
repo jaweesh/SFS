@@ -1,4 +1,6 @@
 # SFS
+On 2/April/2020 Sudan PM Abdullah Hamdook anounced StandForSudan campaign to raise funds for the struggling government, this repo will serve as historic and analytical data for the campaign<br>
+
 StandForSudan historic data for graphs
 
 quickly written scripts to grap data from ebs website to do analysis on the data
@@ -111,7 +113,8 @@ Crossed 100k Doners
 ![100k doners](Images/100k-doners.png "100k doners")
 
 7/april/2020 7:37 pm Khartoum time<br>
-**DONATIONS CROSSED 1 MILLION USD**<br>
+ **DONATIONS CROSSED 1 MILLION USD** <br>
+It took 5 days for donations to reach 1M USD here is the breakdown<br>
 Cash Count:<br>
 57657142 / 55.3 = 1,042,624.62 Million USD
 <br>
