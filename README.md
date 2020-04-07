@@ -109,3 +109,14 @@ from 7am to 7pm Khartoum time there was 2000000 donations
 
 Crossed 100k Doners
 ![100k doners](Images/100k-doners.png "100k doners")
+
+7/april/2020 7:37 pm Khartoum time<br>
+**DONATIONS CROSSED 1 MILLION USD**<br>
+Cash Count:<br>
+57657142 / 55.3 = 1,042,624.62 Million USD
+<br>
+Doners Count<br>
+109340 - 109329 = 11 Sudani Zol
+![](Images/1M-USD-mark-7-april-19_38pm.png "numbers")
+
+![](Images/1M-USD-mark-7-april-19_38pm02.png "graph")
