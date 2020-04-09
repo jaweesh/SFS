@@ -18,11 +18,17 @@ then saves these in json, csv files and printing to terminal
 ## How to run
 I recommend running the script in a linux environment however it should work on windows if you install missing libraries
 
-1. create a cron job to run the script every 1 hour
+1. create a cron job to run the script every 1 minute
 
 ```
 crontab -e
-*/1 * * * * python3 grabber.py >> ~/log.txt
+*/1 * * * * python3 /StandForSudan/scraper.py >> /StandForSudan/DataFiles/log.txt
+# send data via share to splunk for real time analysis
+*/1 * * * * cp StandForSudan_DATA.csv /mnt/hgfs/SFS_share/
+# cron runs from home directory
+*/1 * * * * cp -f log.txt StandForSudan_DATA.csv StandForSudan_DATA.json /StandForSudan/SFS/DataFiles/
+# push new data files every minute to github so others can automate pulling and have real time data
+*/1 * * * * cd /StandForSudan/ && rm -f .git/index.lock && git add * && git commit -m "updated data files" && git push origin master
 ```
 
 2. you can watch data from the files by cat-ing them in a watch command
