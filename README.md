@@ -5,6 +5,10 @@ StandForSudan historic data for graphs
 
 quickly written scripts to grap data from ebs website to do analysis on the data
 
+
+**data files are updated automatically every 1 minute from 9 April 7 pm**
+
+
 ## Description
 the script when ran will send a request to SFS endpoint to grap numbers
 then saves these in json, csv files and printing to terminal
