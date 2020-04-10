@@ -36020,3 +36020,11 @@ Donations per Sudanese: 159.63928646419913
 People donated: 523,870
 Cache collected: 83,630,233
 Donations per Sudanese: 159.63928646419913
+2020-04-11 03:14:01.664192
+People donated: 523,871
+Cache collected: 83,630,238
+Donations per Sudanese: 159.63899127838724
+2020-04-11 03:15:01.629602
+People donated: 523,871
+Cache collected: 83,630,238
+Donations per Sudanese: 159.63899127838724
