@@ -133,3 +133,10 @@ Doners Count<br>
 ![](Images/1M-USD-mark-7-april-19_38pm.png "numbers")
 
 ![](Images/1M-USD-mark-7-april-19_38pm02.png "graph")
+
+
+Update 10/April/2020 <br>
+1.5M USD collected<br>
+![1.5musd update](Images/update-10-april-1.5m-usd.png "1.5M USD update")
+<br>
+![1.5musd update](Images/update-10-april.png "10 April update")
