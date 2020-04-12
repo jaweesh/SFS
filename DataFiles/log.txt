@@ -44444,3 +44444,11 @@ Donations per Sudanese: 158.96685841620305
 People donated: 528,642
 Cache collected: 84,036,404
 Donations per Sudanese: 158.96656716643778
+2020-04-12 14:24:01.955622
+People donated: 528,645
+Cache collected: 84,036,517
+Donations per Sudanese: 158.96587880335574
+2020-04-12 14:25:01.744912
+People donated: 528,648
+Cache collected: 84,036,539
+Donations per Sudanese: 158.96501831086093
