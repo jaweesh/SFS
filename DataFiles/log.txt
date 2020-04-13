@@ -50142,3 +50142,34 @@ Donations per Sudanese: 158.46322805593755
 People donated: 532,309
 Cache collected: 84,352,244
 Donations per Sudanese: 158.4648089737352
+2020-04-13 14:10:02.031323
+People donated: 532,313
+Cache collected: 84,352,555
+Donations per Sudanese: 158.46420245231658
+2020-04-13 14:11:02.257282
+People donated: 532,315
+Cache collected: 84,352,563
+Donations per Sudanese: 158.4636221034538
+2020-04-13 14:12:01.532955
+People donated: 532 316
+Cache collected: 84 352 566
+2020-04-13 14:13:01.608361
+People donated: 532,316
+Cache collected: 84,352,566
+Donations per Sudanese: 158.46333005207433
+2020-04-13 14:14:01.910519
+People donated: 532,329
+Cache collected: 84,352,653
+Donations per Sudanese: 158.45962365379305
+2020-04-13 14:15:02.074429
+People donated: 532,330
+Cache collected: 84,352,658
+Donations per Sudanese: 158.4593353746736
+2020-04-13 14:16:01.329220
+People donated: 532,332
+Cache collected: 84,352,664
+Donations per Sudanese: 158.45875130557621
+2020-04-13 14:17:01.580268
+People donated: 532,332
+Cache collected: 84,352,664
+Donations per Sudanese: 158.45875130557621
