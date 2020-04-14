@@ -57284,3 +57284,11 @@ Cache collected: 111.242.734
 People donated: 536,716
 Cache collected: 111,242,991
 Donations per Sudanese: 207.2660233717646
+2020-04-14 20:02:01.499291
+People donated: 536,742
+Cache collected: 111,243,150
+Donations per Sudanese: 207.25627955330495
+2020-04-14 20:03:02.299277
+People donated: 536,781
+Cache collected: 111,243,584
+Donations per Sudanese: 207.24202980358842
