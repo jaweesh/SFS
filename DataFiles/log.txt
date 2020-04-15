@@ -60315,3 +60315,11 @@ Donations per Sudanese: 206.42552244947893
 People donated: 539,478
 Cache collected: 111,362,028
 Donations per Sudanese: 206.42552244947893
+2020-04-15 08:46:01.738769
+People donated: 539,478
+Cache collected: 111,362,028
+Donations per Sudanese: 206.42552244947893
+2020-04-15 08:47:01.519438
+People donated: 539,478
+Cache collected: 111,362,028
+Donations per Sudanese: 206.42552244947893
