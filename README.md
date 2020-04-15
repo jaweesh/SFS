@@ -11,28 +11,29 @@ quickly written scripts to grap data from ebs website to do analysis on the data
 
 **UPDATE 15 APRIL 2020**</br>
 script now includes usd donations in the same files</br>
-Data Format:
-json{
-"StandForSudan":[
- {
- "TIME":"Value",
- "People":"Value",
- "Cash": "Value",
- "USD_Doners": "Value",
- "USD_CASH": "Value"
- }],[
- {
- "TIME":"Value",
- "People":"Value",
- "Cash": "Value",
- "USD_Doners": "Value",
- "USD_CASH": "Value"
- }
-]
-}
+Data Format:</br>
+json</br>
+{</br>
+"StandForSudan":[</br>
+ {</br>
+ "TIME":"Value",</br>
+ "People":"Value",</br>
+ "Cash": "Value",</br>
+ "USD_Doners": "Value",</br>
+ "USD_CASH": "Value"</br>
+ }],[</br>
+ {</br>
+ "TIME":"Value",</br>
+ "People":"Value",</br>
+ "Cash": "Value",</br>
+ "USD_Doners": "Value",</br>
+ "USD_CASH": "Value"</br>
+ }</br>
+]</br>
+}</br>
 
-CSV
-["TIME","PEOPLE","CASH","USD_Doners","USD_Cash"]
+CSV</br>
+["TIME","PEOPLE","CASH","USD_Doners","USD_Cash"]</br>
 
 
 
