@@ -9,6 +9,33 @@ quickly written scripts to grap data from ebs website to do analysis on the data
 **data files are updated automatically every 1 minute from 9 April 7 pm**
 
 
+**UPDATE 15 APRIL 2020**</br>
+script now includes usd donations in the same files</br>
+Data Format:
+json{
+"StandForSudan":[
+ {
+ "TIME":"Value",
+ "People":"Value",
+ "Cash": "Value",
+ "USD_Doners": "Value",
+ "USD_CASH": "Value"
+ }],[
+ {
+ "TIME":"Value",
+ "People":"Value",
+ "Cash": "Value",
+ "USD_Doners": "Value",
+ "USD_CASH": "Value"
+ }
+]
+}
+
+CSV
+["TIME","PEOPLE","CASH","USD_Doners","USD_Cash"]
+
+
+
 ## Description
 the script when ran will send a request to SFS endpoint to grap numbers
 then saves these in json, csv files and printing to terminal
