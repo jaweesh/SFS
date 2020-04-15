@@ -76,7 +76,7 @@ def csvefy(spans):
     usd_amount = data[1].replace(',','')
 
     DATA = [dateTimeObj, DONATIONS_COUNT, DONATIONS,usd_count,usd_amount]
-    CSV_FILE = "~DataFiles/StandForSudan_DATA.csv"
+    CSV_FILE = "~/StandForSudan_DATA.csv"
     afile = open(CSV_FILE, 'a', encoding='utf8')
     afile.write(','.join(DATA)+'\n')
     afile.close()
